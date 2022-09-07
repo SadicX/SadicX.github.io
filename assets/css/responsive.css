@@ -1,0 +1,223 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Md samsuzzaman
+Template Name: Vlaca - Creative Portfolio Showcase Template
+Version      : 1.0                                          
+* ----------------------------------------------------------------------------------------
+*/
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+    .mainmenu .navbar-nav li {
+        margin-right: 26px;
+    }
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 767px) and (max-width: 991px) {
+    .single-blog img {
+        width: 100%;
+    }
+    .pricing-box {
+        margin-top: 30px;
+    }
+    .project-idea h2,
+    .project-idea p {
+        font-size: 22px;
+    }
+    .single-project-complete {
+        margin-top: 30px;
+    }
+    .about-text {
+        margin-top: 50px;
+    }
+    .section-title p {
+        padding: 0;
+    }
+    .contact-icon {
+        float: none;
+    }
+    .call-to-action-small-button {
+        text-align: left;
+        margin-top: 25px;
+    }
+
+    .single-contact-info {
+        margin-bottom: 30px;
+    }
+    .bubbles h1 {
+        font-size: 80px;
+    }
+    .single-what {
+        margin-bottom: 30px;
+    }
+    .video-area-text p {
+        padding: 0px 50px;
+    }
+    .about-me-left {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .single-testimonial {
+        padding: 0px 110px;
+    }
+    .single-service {
+        margin-bottom: 30px;
+    }
+    .footer-text p {
+        padding: 0;
+    }
+    .header-text h2 {
+        font-size: 70px;
+    }
+    .single-testi-des {
+        padding: 0px;
+    }
+    .about-right ul li {
+        width: 44%;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .off-canvas-menu {
+        width: 100%;
+        right: -100%;
+    }
+    .slider-control {
+        display: none;
+    }
+    a.slide-btn {
+        font-size: 12px;
+        padding: 10px;
+        margin-bottom: 5px;
+    }
+    .footer-social-link {
+        text-align: left;
+        margin-top: 20px;
+    }
+    .pricing-box {
+        margin-top: 30px;
+    }
+    .single-testimonial {
+        padding: 0;
+    }
+    .video-area-text {
+        margin-top: 50px;
+    }
+    .footer-social-link {
+        text-align: center;
+    }
+    .footer-area img {
+        margin-bottom: 0px;
+    }
+    .scrollup {
+        height: 40px;
+        width: 40px;
+        line-height: 35px;
+    }
+    .single-project-complete {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .footer-text h6 {
+        font-size: 12px;
+    }
+    .footer-area {
+        padding: 50px 0px;
+    }
+    .section-padding {
+        padding: 80px 0px;
+    }
+    .single-testimonial {
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .margin-top-c {
+        margin-top: 0px;
+    }
+    .section-title p {
+        padding: 0;
+    }
+    .single-contact-details {
+        margin-bottom: 30px;
+    }
+    .item .grid figure,
+    .gallery .grid figure {
+        min-width: 100%;
+    }
+    .call-to-action-small-button {
+        text-align: left;
+        margin-top: 25px;
+    }
+    .single-contact-info {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .bubbles h1 {
+        font-size: 50px;
+    }
+    .single-what {
+        margin-bottom: 30px;
+    }
+    .video-area-text {
+        padding: 0px;
+    }
+    .about-me-left {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .about-me-left h2 {
+        font-size: 30px;
+    }
+    .video-area-text p {
+        padding: 0px;
+    }
+    .about-me-left img {
+        width: 300px;
+    }
+    .single-service {
+        margin-bottom: 30px;
+    }
+    .header-text .home-arrow-down {
+        bottom: -160px;
+    }
+    .about-me-right h2 {
+        font-size: 40px;
+    }
+    .about-social-links ul li a {
+        margin-bottom: 10px;
+    }
+    .single-blog {
+        margin-right: 0px;
+        margin-top: 0px;
+    }
+    .header-text h2 {
+        font-size: 30px;
+        letter-spacing: 15px;
+    }
+    .single-testi-des {
+        padding: 0px;
+    }
+    .call-to-area-text h2 {
+        font-size: 30px;
+    }
+    .footer-text p {
+        text-align: left;
+        margin-top: 40px;
+    }
+    .header-text p {
+	font-size: 18px;
+}
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
